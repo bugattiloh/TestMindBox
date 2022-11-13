@@ -1,0 +1,15 @@
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\bin\Debug\net6.0\TestMindBox.exe
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\bin\Debug\net6.0\TestMindBox.deps.json
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\bin\Debug\net6.0\TestMindBox.runtimeconfig.json
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\bin\Debug\net6.0\TestMindBox.dll
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\bin\Debug\net6.0\TestMindBox.pdb
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.csproj.AssemblyReference.cache
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.AssemblyInfoInputs.cache
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.AssemblyInfo.cs
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.csproj.CoreCompileInputs.cache
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.dll
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\refint\TestMindBox.dll
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.pdb
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\TestMindBox.genruntimeconfig.cache
+C:\Users\g.bagiyan\Desktop\TestMindBox\TestMindBox\obj\Debug\net6.0\ref\TestMindBox.dll
